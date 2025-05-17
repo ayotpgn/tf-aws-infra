@@ -1,5 +1,5 @@
 
-# Project: Complete Infrastructure as Code (Terraform + Ansible)
+# Infrastructure as Code (Terraform + Ansible)
 Implementing Infrastructure as Code (IaC) principles through the use of Terraform and Ansible.
 
 ---------------
