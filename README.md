@@ -7,7 +7,7 @@ Implementing Infrastructure as Code (IaC) principles through the use of Terrafor
 
 ## Goal:
 
-Apply **Infrastructure as Code (IaC)** concepts using **Terraform** and **Ansible** in a fully working and (hopefully) realistic personal project.
+Apply **Infrastructure as Code (IaC)** concepts using **Terraform** and **Ansible** in a fully working and realistic personal project.
 
 
 
